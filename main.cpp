@@ -3,8 +3,6 @@
 int main(int argc, char *argv[])
 {
     QCoreApplication a(argc, argv);
-// Add comments and test
-    // Add comments and test
-    // Add comments and test
+// Add comments a
     return a.exec();fsdafsdafgsdag
 }
