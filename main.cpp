@@ -5,5 +5,5 @@ int main(int argc, char *argv[])
     QCoreApplication a(argc, argv);
 // Add comments a
     return a.exec();
-//TeshChange
+//TeshChange 2 numbet
 }
